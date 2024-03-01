@@ -1,0 +1,17 @@
+
+.container {
+    width: 30%;
+    transform: translate()
+}
+.parentflex {
+    display: flex;
+    justify-content: space-between;
+
+}
+.imagemargin {
+    margin-left: 10vh;
+    margin-right: 10vh;
+}
+.background {
+    background-color: white;
+}

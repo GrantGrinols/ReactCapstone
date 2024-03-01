@@ -1,0 +1,11 @@
+.ReceiptBackground{
+    background-color: #f4ce14;
+
+}
+.ReceiptCenter{
+    text-align: center;
+}
+.ImportantText{
+    font-size: 20pt;
+    text-decoration: solid;
+}

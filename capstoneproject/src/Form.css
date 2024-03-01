@@ -1,0 +1,15 @@
+.Form{
+    display: flex;
+    justify-content: center;
+    background-color: #f4ce14;
+}
+.Button{
+    background-color:#495E57;
+    transition: background-color 1s ease;
+}
+.Button:hover{
+    background-color: rgb(39, 39, 21);
+    }
+.FormBackground{
+    background-color: white;
+}

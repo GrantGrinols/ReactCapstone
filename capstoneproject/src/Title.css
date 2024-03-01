@@ -1,0 +1,44 @@
+.backgroundColor{
+    background-color: #495E57;
+}
+.TitleText{
+    font-size: 64pt;
+    color: #f4ce14;
+}
+.SubTitleText{
+    font-size: 40pt;
+    color: white;
+}
+.LeadText{
+    color: white;
+    text-shadow: 1px 1px black;
+}
+.Height{
+    height: 50vh;
+}
+.Center{
+    margin-left: 20vh;
+    transform: translate(-40%,30%);
+}
+.parentflex {
+    display: flex;
+}
+.ButtonPosition{
+    left: 50%;
+    transform: translate(60%,0);
+
+}
+.BoldText{
+    text-decoration: solid;
+}
+.Button {
+    background-image: '../photos/Button.png';
+    background-color: #f4ce14;
+    transition: background-color 1s ease;
+}
+.Button:hover{
+background-color: rgb(170, 170, 20);
+}
+.BlackText{
+    color: black;
+}
