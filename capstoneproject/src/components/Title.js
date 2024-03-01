@@ -17,7 +17,7 @@ function Title(){
             </div>
         
         
-        <div className="Height"><div className="Center"><img src={titleimage} width="150" height="250" /></div></div>
+        <div className="Height"><div className="Center"><img src={titleimage} width="150" height="250" alt="A picture of a chef preparing one of our famous recipes"/></div></div>
         </div>
         </div>
     )
